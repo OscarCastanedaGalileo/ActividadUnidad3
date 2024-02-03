@@ -1,0 +1,21 @@
+Algoritmo para limpiar un acuario con peces
+	1. Sacar esponja limpia
+	2. preparar sifon
+	3. Preparar agua limpia 
+	4. Utilizar esponja para limpiar las paredes de la pecera
+	5. Utilizar sifon para sacar 25% de agua de la pecera 
+	6. Reemplazar el 25% con agua limpia
+	7. Guardar Sifon
+	8. Guardar esponja	
+	
+	
+Algoritmo para echar a andar un carro
+	1. preparar llaves del carro
+	2. abrir puerta del carro 
+	3. entrar al carro
+	4.cerrar puerta del carro 
+	5. introducir llave de encendido
+	6. girar la llave 
+	7. esperar a motor de ignicion
+	8. dejar de girar llave
+	

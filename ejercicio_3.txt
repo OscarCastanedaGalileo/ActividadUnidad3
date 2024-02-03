@@ -1,0 +1,58 @@
+Enunciados verdaderos
+	Toca un instrumento musical
+	Su instrumento tiene 6 cuerdas
+	Su instrumento es de madera 
+	Sabe leer musica
+	Cuida su instrumento musical
+	Su instrumento es acustico
+	Es un solista
+	
+Enunciados falsos 
+	Su profesion es Medico
+	Toca un instrumento de viento
+	Su instrumento es de 4 cuerdas
+	Toca en una banda
+	Su instrumento se conecta a un amplificador electrico
+	Sun instrumento es de metal
+	
+	
+
+El guitarrista no toca un instrumento musical
+	Proposicion: negacion
+	Resultado: falso
+	
+El guitarrista sabe leer muica o su profesion es medico
+	Proposicion: disyuncion
+	Resultado: verdadero
+	
+El instrumento del guitarrista es de madera y es acustico
+	Proposicion: Conjuncion
+	Resultado: Verdadero
+	
+El instrumento del guitarrista es de metal o toca un instrumento de viento	
+	Proposicion: disyuncion
+	Resultado: Falso
+	
+El guitarrista es solista o toca en una banda
+	Proposicion: disyuncion
+	Resultado: verdadero
+	
+La profesion del guitarrista no es Medico
+	Proposicion: negacion
+	Resultado: verdadero
+	
+El instrumento del guitarrista es de madera y es de metal
+	Proposicion: Conjuncion
+	Resultado: falso
+	
+El instrumento del guitarrista es acustico y se conecta a un amplificador electrico
+	Proposicion: conjuncion
+	Resultado: Falso
+	
+El guitarrista es un solista y no toca en una banda
+	Proposicion: Conjuncion
+	Resultado: Verdadero
+	
+El intrumento del guitarrista tiene 6 cuerdas o tiene 4 cuerdas
+	Proposicion: Disyuncion
+	Resultado: Verdadero

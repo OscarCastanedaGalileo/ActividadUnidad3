@@ -1,0 +1,16 @@
+Problema: 
+En mi afan de aprender de todo un poco, termine inscribiendome en demasiados cursos de diferentes cosas: Programacion, arte, musica, ambientales, sociales, voluntariados. AL tratar de hacer tantas cosas con tiempo limitado, empeze a dar pobres resultados en algunas ya que mis horarios se cruzaban o simplemente estaba demasiado ocupado en otro tema que consideraba mas importante o de mayor prioridad. 
+
+
+Algoritmo de solucion
+
+Comprar agenda 
+comprar calendario
+comprar marcadores
+Marcar las horas disponibles
+marcar horas con compromisos
+actualizar tareas pendientes
+actualizar tereas completadas
+Actualizar constantemente 
+mantener rastro de progreso
+ 
